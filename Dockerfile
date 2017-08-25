@@ -1,6 +1,6 @@
 FROM alpine:3.6
 
-ARG HUGO_VERSION="0.22.1"
+ARG HUGO_VERSION="0.23"
 ARG TMP_INSTALL="/tmp/hugo"
 ENV APP_DIR="/usr/src/app"
 
